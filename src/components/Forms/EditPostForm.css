@@ -1,0 +1,16 @@
+.postEditForm {
+    min-width: 400px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.closeEditBtn {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.formEditInput {
+    margin-bottom: 15px;
+}

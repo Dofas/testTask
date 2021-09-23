@@ -1,0 +1,16 @@
+.postForm {
+    min-width: 400px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.closeBtn {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.formInput {
+    margin-bottom: 15px;
+}

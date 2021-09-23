@@ -1,0 +1,22 @@
+
+.post {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid yellowgreen;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+.postTitle {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.postBtns {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    flex-wrap: wrap;
+}

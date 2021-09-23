@@ -1,0 +1,34 @@
+.postItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.postItemBody {
+    margin-bottom: 20px;
+}
+
+.itemComments {
+    display: flex;
+    flex-direction: column;
+    max-width: inherit;
+    align-items: flex-start;
+}
+
+.comments {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.postComment {
+    margin-bottom: 10px;
+}
+
+.postItemBtns {
+    display: flex;
+    justify-content: center;
+}
+
+.backBtn{
+    margin-right: 15px;
+}
